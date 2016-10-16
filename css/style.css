@@ -1,0 +1,78 @@
+body {
+	font-family: 'Crimson Text', serif;
+	background: #F6F6F6;
+}
+
+div.container {
+	width: 1090px;
+	margin: 0px auto;
+}
+
+#header {
+	margin-bottom: 40px;
+}
+
+#xaxis {
+	background-color: #F6F6F6;
+	opacity: 0.8;
+}
+
+#xaxis.sticky{
+  position: fixed;
+  top: 0;
+}
+
+p {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	font-weight: normal;
+}
+
+h3 {
+	margin: 5px 0px;
+	font-weight: normal;
+	font-size: 32px;
+}
+
+h5 {
+	margin: 5px 0px;
+	font-weight: normal;
+	font-size: 18px;
+}
+
+hr {
+	color: #D5D5D5;
+}
+
+.legend {
+	display: block;
+	width: 620px; 
+	height: 150px;
+	margin: 0px auto;
+}
+
+.footer {
+	font-size: 14px;
+}
+
+text {
+	font-size: 14px;
+}
+
+.result_circle {
+	opacity: 0.45;
+}
+
+.d3-tip {
+	line-height: 1;
+	padding: 12px;
+	background: rgba(229, 229, 229, 0.9);
+	border-radius: 2px;
+	border: 1px solid #D5D5D5;
+	pointer-events: none;
+}
+

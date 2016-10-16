@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet"> 
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+
+        <title> </title>
+    </head>
+    
+    <body>
+        <div class="container" id="header">
+            <h1>How States Have Voted in US Presidential Elections</h1>
+            <svg class="legend">
+                <text x="310" y="10" text-anchor="middle">Winner's share of vote:</text>
+                <circle cx="195" cy="65" r="16.35" stroke="black" fill="none"></circle><text x="195" y="75" text-anchor="middle">25%</text>
+                <circle cx="270" cy="59" r="23.12" stroke="black" fill="none"></circle><text x="270" y="75" text-anchor="middle">50%</text>
+                <circle cx="355" cy="54" r="28.31" stroke="black" fill="none"></circle><text x="355" y="75" text-anchor="middle">75%</text>
+                <circle cx="450" cy="50" r="32.69" stroke="black" fill="none"></circle><text x="450" y="75" text-anchor="middle">100%</text>
+                <circle class="result_circle" cx="20" cy="115" r="12" fill="#1268B2"></circle><text x="35" y="118">Democratic Candidate Won</text>
+                <circle class="result_circle" cx="235" cy="115" r="12" fill="#FF5048"></circle><text x="250" y="118">Republican Candidate Won</text>
+                <circle class="result_circle" cx="450" cy="115" r="12" fill="Yellow"></circle><text x="465" y="118">Third Party Candidate Won</text>
+            </svg>
+        </div>
+        <div class="container" id="xaxis"></div>
+        <div class="container">
+            <div id="plot"></div>
+            <p class="footer">Data Source: The American Presidency Project. &copy; 2016. Designed by <a href="mailto:feng.a.g@gmail.com">fleecealeece</a>.</p>
+        </div>
+  	
+    	<script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+        <script type="text/javascript" src="js/d3-tip-v0.6.7.js"></script>
+		<script type="text/javascript" src="js/state_election_results.js"></script>
+        <script>
+            //function to fix the x-axis label to the top of the viewport on scroll
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > $('#header').outerHeight(includeMargin=true)){  
+                    $('#xaxis').addClass("sticky");
+
+                    //set horizontal position of fixed axis div
+                    var leftpos = ($(window).width() - $('#xaxis').width())/2;
+                    $('#xaxis').css("left", leftpos);
+                  }
+                  else{
+                    $('#xaxis').removeClass("sticky");
+                  }
+            });
+        </script> 
+    </body>
+
+</html>

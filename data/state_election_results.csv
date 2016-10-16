@@ -1,0 +1,664 @@
+Dem_pct,Rep_pct,State,Third_pct,Year,Winner,winner_share,total
+30.5,69.5,Alabama,0,1964,Republican,69.5,100
+18.7,14,Alabama,65.9,1968,Third Party,65.9,98.6
+25.5,72.4,Alabama,0,1972,Republican,72.4,97.9
+55.7,42.6,Alabama,0,1976,Democrat,55.7,98.3
+47.4,48.8,Alabama,1.2,1980,Republican,48.8,97.4
+38.3,60.5,Alabama,0,1984,Republican,60.5,98.8
+39.9,59.2,Alabama,0,1988,Republican,59.2,99.1
+40.9,47.6,Alabama,10.8,1992,Republican,47.6,99.3
+43.2,50.1,Alabama,6,1996,Republican,50.1,99.3
+41.6,56.5,Alabama,1.1,2000,Republican,56.5,99.2
+36.8,62.5,Alabama,0,2004,Republican,62.5,99.3
+38.7,60.3,Alabama,0,2008,Republican,60.3,99
+38.4,60.5,Alabama,0,2012,Republican,60.5,98.9
+65.9,34.1,Alaska,0,1964,Democrat,65.9,100
+42.6,45.3,Alaska,12.1,1968,Republican,45.3,100
+34.6,58.1,Alaska,0,1972,Republican,58.1,92.7
+35.7,57.9,Alaska,0,1976,Republican,57.9,93.6
+26.4,54.3,Alaska,7,1980,Republican,54.3,87.7
+29.9,66.7,Alaska,0,1984,Republican,66.7,96.6
+36.3,59.6,Alaska,0,1988,Republican,59.6,95.9
+30.3,39.5,Alaska,28.4,1992,Republican,39.5,98.2
+33.3,50.8,Alaska,10.9,1996,Republican,50.8,95
+27.7,58.6,Alaska,10.1,2000,Republican,58.6,96.4
+35.5,61.1,Alaska,0,2004,Republican,61.1,96.6
+37.9,59.4,Alaska,0,2008,Republican,59.4,97.3
+40.8,54.8,Alaska,0,2012,Republican,54.8,95.6
+49.5,50.4,Arizona,0,1964,Republican,50.4,99.9
+35,54.8,Arizona,9.6,1968,Republican,54.8,99.4
+31.9,64.7,Arizona,0,1972,Republican,64.7,96.6
+39.8,56.4,Arizona,0,1976,Republican,56.4,96.2
+28.2,60.6,Arizona,8.8,1980,Republican,60.6,97.6
+32.5,66.4,Arizona,0,1984,Republican,66.4,98.9
+38.7,60,Arizona,0,1988,Republican,60,98.7
+36.5,38.5,Arizona,23.8,1992,Republican,38.5,98.8
+46.5,44.3,Arizona,8,1996,Democrat,46.5,98.8
+44.7,51,Arizona,3,2000,Republican,51,98.7
+44.4,54.9,Arizona,0,2004,Republican,54.9,99.3
+45.1,53.6,Arizona,0,2008,Republican,53.6,98.7
+44.6,53.7,Arizona,0,2012,Republican,53.7,98.3
+56.1,43.4,Arkansas,0,1964,Democrat,56.1,99.5
+30.4,30.8,Arkansas,38.9,1968,Third Party,38.9,100.1
+30.7,68.9,Arkansas,0,1972,Republican,68.9,99.6
+65,34.9,Arkansas,0,1976,Democrat,65,99.9
+47.5,48.1,Arkansas,2.7,1980,Republican,48.1,98.3
+38.3,60.5,Arkansas,0,1984,Republican,60.5,98.8
+42.2,56.4,Arkansas,0,1988,Republican,56.4,98.6
+53.2,35.5,Arkansas,10.4,1992,Democrat,53.2,99.1
+53.7,36.8,Arkansas,7.9,1996,Democrat,53.7,98.4
+45.9,51.3,Arkansas,1.5,2000,Republican,51.3,98.7
+44.5,54.3,Arkansas,0,2004,Republican,54.3,98.8
+38.9,58.7,Arkansas,0,2008,Republican,58.7,97.6
+36.9,60.6,Arkansas,0,2012,Republican,60.6,97.5
+59.1,40.8,California,0,1964,Democrat,59.1,99.9
+44.7,47.8,California,6.7,1968,Republican,47.8,99.2
+41.5,55,California,0,1972,Republican,55,96.5
+47.6,49.3,California,0,1976,Republican,49.3,96.9
+35.9,52.7,California,8.6,1980,Republican,52.7,97.2
+41.3,57.5,California,0,1984,Republican,57.5,98.8
+47.6,51.1,California,0,1988,Republican,51.1,98.7
+46,32.6,California,20.6,1992,Democrat,46,99.2
+51.1,38.2,California,7,1996,Democrat,51.1,96.3
+53.4,41.7,California,3.8,2000,Democrat,53.4,98.9
+54.3,44.4,California,0,2004,Democrat,54.3,98.7
+61,37,California,0,2008,Democrat,61,98
+60.2,37.1,California,0,2012,Democrat,60.2,97.3
+61.3,38.2,Colorado,0,1964,Democrat,61.3,99.5
+41.3,50.5,Colorado,7.5,1968,Republican,50.5,99.3
+34.6,62.6,Colorado,0,1972,Republican,62.6,97.2
+42.6,54,Colorado,0,1976,Republican,54,96.6
+31.1,55.1,Colorado,11,1980,Republican,55.1,97.2
+35.1,63.4,Colorado,0,1984,Republican,63.4,98.5
+45.3,53.1,Colorado,0,1988,Republican,53.1,98.4
+40.1,35.9,Colorado,23.3,1992,Democrat,40.1,99.3
+44.4,45.8,Colorado,6.6,1996,Republican,45.8,96.8
+42.4,50.8,Colorado,5.3,2000,Republican,50.8,98.5
+47,51.7,Colorado,0,2004,Republican,51.7,98.7
+53.7,44.7,Colorado,0,2008,Democrat,53.7,98.4
+51.5,46.1,Colorado,0,2012,Democrat,51.5,97.6
+67.8,32.1,Connecticut,0,1964,Democrat,67.8,99.9
+49.5,44.3,Connecticut,6.1,1968,Democrat,49.5,99.9
+40.1,58.6,Connecticut,0,1972,Republican,58.6,98.7
+46.9,52.1,Connecticut,0,1976,Republican,52.1,99
+38.5,48.2,Connecticut,12.2,1980,Republican,48.2,98.9
+38.8,60.7,Connecticut,0,1984,Republican,60.7,99.5
+46.9,52,Connecticut,0,1988,Republican,52,98.9
+42.2,35.8,Connecticut,21.6,1992,Democrat,42.2,99.6
+52.8,34.7,Connecticut,10,1996,Democrat,52.8,97.5
+55.9,38.4,Connecticut,4.4,2000,Democrat,55.9,98.7
+54.3,43.9,Connecticut,0,2004,Democrat,54.3,98.2
+60.6,38.2,Connecticut,0,2008,Democrat,60.6,98.8
+58.1,40.7,Connecticut,0,2012,Democrat,58.1,98.8
+60.9,38.8,Delaware,0,1964,Democrat,60.9,99.7
+41.6,45.1,Delaware,13.3,1968,Republican,45.1,100
+39.2,59.6,Delaware,0,1972,Republican,59.6,98.8
+52,46.6,Delaware,0,1976,Democrat,52,98.6
+44.8,47.2,Delaware,6.9,1980,Republican,47.2,98.9
+39.9,59.8,Delaware,0,1984,Republican,59.8,99.7
+43.5,55.9,Delaware,0,1988,Republican,55.9,99.4
+43.5,35.3,Delaware,20.4,1992,Democrat,43.5,99.2
+51.8,36.6,Delaware,10.6,1996,Democrat,51.8,99
+55,41.9,Delaware,2.5,2000,Democrat,55,99.4
+53.3,45.8,Delaware,0,2004,Democrat,53.3,99.1
+61.9,36.9,Delaware,0,2008,Democrat,61.9,98.8
+58.6,40,Delaware,0,2012,Democrat,58.6,98.6
+85.5,14.5,Dist. of Col.,0,1964,Democrat,85.5,100
+81.8,18.2,Dist. of Col.,0,1968,Democrat,81.8,100
+78.1,21.6,Dist. of Col.,0,1972,Democrat,78.1,99.7
+81.6,16.5,Dist. of Col.,0,1976,Democrat,81.6,98.1
+74.8,13.4,Dist. of Col.,9.3,1980,Democrat,74.8,97.5
+85.4,13.7,Dist. of Col.,0,1984,Democrat,85.4,99.1
+82.6,14.3,Dist. of Col.,0,1988,Democrat,82.6,96.9
+84.6,9.1,Dist. of Col.,4.3,1992,Democrat,84.6,98
+85.2,9.3,Dist. of Col.,1.9,1996,Democrat,85.2,96.4
+85.2,9,Dist. of Col.,5.2,2000,Democrat,85.2,99.4
+89.2,9.3,Dist. of Col.,0,2004,Democrat,89.2,98.5
+92.5,6.5,Dist. of Col.,0,2008,Democrat,92.5,99
+90.9,7.3,Dist. of Col.,0,2012,Democrat,90.9,98.2
+51.1,48.9,Florida,0,1964,Democrat,51.1,100
+30.9,40.5,Florida,28.5,1968,Republican,40.5,99.9
+27.8,71.9,Florida,0,1972,Republican,71.9,99.7
+51.9,46.6,Florida,0,1976,Democrat,51.9,98.5
+38.5,55.5,Florida,5.1,1980,Republican,55.5,99.1
+34.7,65.3,Florida,0,1984,Republican,65.3,100
+38.5,60.9,Florida,0,1988,Republican,60.9,99.4
+39,40.9,Florida,19.8,1992,Republican,40.9,99.7
+48,42.3,Florida,9.1,1996,Democrat,48,99.4
+48.8,48.8,Florida,1.6,2000,Republican,0,99.2
+47.1,52.1,Florida,0,2004,Republican,52.1,99.2
+51,48.2,Florida,0,2008,Democrat,51,99.2
+50,49.1,Florida,0,2012,Democrat,50,99.1
+45.9,54.1,Georgia,0,1964,Republican,54.1,100
+26.7,30.4,Georgia,42.8,1968,Third Party,42.8,99.9
+24.6,75,Georgia,0,1972,Republican,75,99.6
+66.7,33,Georgia,0,1976,Democrat,66.7,99.7
+55.8,41,Georgia,2.3,1980,Democrat,55.8,99.1
+39.8,60.2,Georgia,0,1984,Republican,60.2,100
+39.5,59.8,Georgia,0,1988,Republican,59.8,99.3
+43.5,42.9,Georgia,13.3,1992,Democrat,43.5,99.7
+45.8,47,Georgia,6.4,1996,Republican,47,99.2
+43,54.7,Georgia,0.5,2000,Republican,54.7,98.2
+41.4,58,Georgia,0,2004,Republican,58,99.4
+47,52.2,Georgia,0,2008,Republican,52.2,99.2
+45.5,53.3,Georgia,0,2012,Republican,53.3,98.8
+78.8,21.2,Hawaii,0,1964,Democrat,78.8,100
+59.8,38.7,Hawaii,1.5,1968,Democrat,59.8,100
+37.5,62.5,Hawaii,0,1972,Republican,62.5,100
+50.6,48.1,Hawaii,0,1976,Democrat,50.6,98.7
+44.8,42.9,Hawaii,10.6,1980,Democrat,44.8,98.3
+43.8,55.1,Hawaii,0,1984,Republican,55.1,98.9
+54.3,44.8,Hawaii,0,1988,Democrat,54.3,99.1
+48.1,36.7,Hawaii,14.2,1992,Democrat,48.1,99
+56.9,31.6,Hawaii,7.6,1996,Democrat,56.9,96.1
+55.8,37.5,Hawaii,5.9,2000,Democrat,55.8,99.2
+54,45.3,Hawaii,0,2004,Democrat,54,99.3
+71.8,26.6,Hawaii,0,2008,Democrat,71.8,98.4
+70.5,27.8,Hawaii,0,2012,Democrat,70.5,98.3
+50.9,49.1,Idaho,0,1964,Democrat,50.9,100
+30.7,56.8,Idaho,12.5,1968,Republican,56.8,100
+26,64.2,Idaho,0,1972,Republican,64.2,90.2
+36.8,59.3,Idaho,0,1976,Republican,59.3,96.1
+25.2,66.5,Idaho,6.2,1980,Republican,66.5,97.9
+26.4,72.4,Idaho,0,1984,Republican,72.4,98.8
+36,62.1,Idaho,0,1988,Republican,62.1,98.1
+28.4,42,Idaho,27,1992,Republican,42,97.4
+33.6,52.2,Idaho,12.7,1996,Republican,52.2,98.5
+27.6,67.2,Idaho,2.5,2000,Republican,67.2,97.3
+30.3,68.4,Idaho,0,2004,Republican,68.4,98.7
+36.1,61.5,Idaho,0,2008,Republican,61.5,97.6
+32.6,64.5,Idaho,0,2012,Republican,64.5,97.1
+59.5,40.5,Illinois,0,1964,Democrat,59.5,100
+44.2,47.1,Illinois,8.5,1968,Republican,47.1,99.8
+40.5,59,Illinois,0,1972,Republican,59,99.5
+48.1,50.1,Illinois,0,1976,Republican,50.1,98.2
+41.7,49.6,Illinois,7.3,1980,Republican,49.6,98.6
+43.3,56.2,Illinois,0,1984,Republican,56.2,99.5
+48.6,50.7,Illinois,0,1988,Republican,50.7,99.3
+48.6,34.3,Illinois,16.6,1992,Democrat,48.6,99.5
+54.3,36.8,Illinois,8,1996,Democrat,54.3,99.1
+54.6,42.6,Illinois,2.2,2000,Democrat,54.6,99.4
+54.8,44.5,Illinois,0,2004,Democrat,54.8,99.3
+61.9,36.8,Illinois,0,2008,Democrat,61.9,98.7
+57.6,40.7,Illinois,0,2012,Democrat,57.6,98.3
+56,43.6,Indiana,0,1964,Democrat,56,99.6
+38,50.3,Indiana,11.4,1968,Republican,50.3,99.7
+33.3,66.1,Indiana,0,1972,Republican,66.1,99.4
+45.7,53.3,Indiana,0,1976,Republican,53.3,99
+37.7,56,Indiana,5,1980,Republican,56,98.7
+37.7,61.7,Indiana,0,1984,Republican,61.7,99.4
+39.7,59.8,Indiana,0,1988,Republican,59.8,99.5
+36.8,42.9,Indiana,19.8,1992,Republican,42.9,99.5
+41.6,47.1,Indiana,10.5,1996,Republican,47.1,99.2
+41,56.6,Indiana,0.8,2000,Republican,56.6,98.4
+39.3,59.9,Indiana,0,2004,Republican,59.9,99.2
+49.9,48.9,Indiana,0,2008,Democrat,49.9,98.8
+43.9,54.1,Indiana,0,2012,Republican,54.1,98
+61.9,37.9,Iowa,0,1964,Democrat,61.9,99.8
+40.8,53,Iowa,5.7,1968,Republican,53,99.5
+40.5,57.6,Iowa,0,1972,Republican,57.6,98.1
+48.5,49.5,Iowa,0,1976,Republican,49.5,98
+38.6,51.3,Iowa,8.8,1980,Republican,51.3,98.7
+45.9,53.3,Iowa,0,1984,Republican,53.3,99.2
+54.7,44.5,Iowa,0,1988,Democrat,54.7,99.2
+43.3,37.3,Iowa,18.7,1992,Democrat,43.3,99.3
+50.3,39.9,Iowa,8.5,1996,Democrat,50.3,98.7
+48.5,48.2,Iowa,2.2,2000,Democrat,48.5,98.9
+49.2,49.9,Iowa,0,2004,Republican,49.9,99.1
+53.7,44.2,Iowa,0,2008,Democrat,53.7,97.9
+52,46.2,Iowa,0,2012,Democrat,52,98.2
+54.1,45.1,Kansas,0,1964,Democrat,54.1,99.2
+34.7,54.8,Kansas,10.2,1968,Republican,54.8,99.7
+29.5,67.7,Kansas,0,1972,Republican,67.7,97.2
+44.9,52.5,Kansas,0,1976,Republican,52.5,97.4
+33.3,57.9,Kansas,7,1980,Republican,57.9,98.2
+32.6,66.3,Kansas,0,1984,Republican,66.3,98.9
+42.6,55.8,Kansas,0,1988,Republican,55.8,98.4
+33.7,38.9,Kansas,27,1992,Republican,38.9,99.6
+36.1,54.3,Kansas,8.6,1996,Republican,54.3,99
+37.2,58,Kansas,3.4,2000,Republican,58,98.6
+36.6,62,Kansas,0,2004,Republican,62,98.6
+41.7,56.6,Kansas,0,2008,Republican,56.6,98.3
+38,59.7,Kansas,0,2012,Republican,59.7,97.7
+64,35.7,Kentucky,0,1964,Democrat,64,99.7
+37.6,43.8,Kentucky,18.3,1968,Republican,43.8,99.7
+34.8,63.4,Kentucky,0,1972,Republican,63.4,98.2
+52.8,45.6,Kentucky,0,1976,Democrat,52.8,98.4
+47.6,49.1,Kentucky,2.4,1980,Republican,49.1,99.1
+39.4,60,Kentucky,0,1984,Republican,60,99.4
+43.9,55.5,Kentucky,0,1988,Republican,55.5,99.4
+44.6,41.3,Kentucky,13.7,1992,Democrat,44.6,99.6
+45.8,44.9,Kentucky,8.7,1996,Democrat,45.8,99.4
+41.4,56.5,Kentucky,1.5,2000,Republican,56.5,99.4
+39.7,59.5,Kentucky,0,2004,Republican,59.5,99.2
+41.2,57.4,Kentucky,0,2008,Republican,57.4,98.6
+37.8,60.5,Kentucky,0,2012,Republican,60.5,98.3
+43.2,56.8,Louisiana,0,1964,Republican,56.8,100
+28.2,23.5,Louisiana,48.3,1968,Third Party,48.3,100
+28.4,65.3,Louisiana,0,1972,Republican,65.3,93.7
+51.7,46,Louisiana,0,1976,Democrat,51.7,97.7
+45.7,51.2,Louisiana,1.7,1980,Republican,51.2,98.6
+38.2,60.8,Louisiana,0,1984,Republican,60.8,99
+44.1,54.3,Louisiana,0,1988,Republican,54.3,98.4
+45.6,41,Louisiana,11.8,1992,Democrat,45.6,98.4
+52,39.9,Louisiana,6.9,1996,Democrat,52,98.8
+44.9,52.6,Louisiana,1.2,2000,Republican,52.6,98.7
+42.2,56.7,Louisiana,0,2004,Republican,56.7,98.9
+39.9,58.6,Louisiana,0,2008,Republican,58.6,98.5
+40.6,57.8,Louisiana,0,2012,Republican,57.8,98.4
+68.8,31.2,Maine,0,1964,Democrat,68.8,100
+55.3,43.1,Maine,1.6,1968,Democrat,55.3,100
+38.5,61.5,Maine,0,1972,Republican,61.5,100
+48.1,48.9,Maine,0,1976,Republican,48.9,97
+42.3,45.6,Maine,10.2,1980,Republican,45.6,98.1
+38.8,60.8,Maine,0,1984,Republican,60.8,99.6
+43.9,55.3,Maine,0,1988,Republican,55.3,99.2
+38.8,30.4,Maine,30.4,1992,Democrat,38.8,99.6
+51.6,30.8,Maine,14.2,1996,Democrat,51.6,96.6
+49.1,44,Maine,5.7,2000,Democrat,49.1,98.8
+53.6,44.6,Maine,0,2004,Democrat,53.6,98.2
+57.7,40.4,Maine,0,2008,Democrat,57.7,98.1
+56.3,41,Maine,0,2012,Democrat,56.3,97.3
+65.5,34.5,Maryland,0,1964,Democrat,65.5,100
+43.6,41.9,Maryland,14.5,1968,Democrat,43.6,100
+37.4,61.3,Maryland,0,1972,Republican,61.3,98.7
+52.8,46.7,Maryland,0,1976,Democrat,52.8,99.5
+47.1,44.2,Maryland,7.8,1980,Democrat,47.1,99.1
+47,52.5,Maryland,0,1984,Republican,52.5,99.5
+48.2,51.1,Maryland,0,1988,Republican,51.1,99.3
+49.8,35.6,Maryland,14.2,1992,Democrat,49.8,99.6
+54.3,38.3,Maryland,6.5,1996,Democrat,54.3,99.1
+56.5,40.3,Maryland,2.7,2000,Democrat,56.5,99.5
+55.9,42.9,Maryland,0,2004,Democrat,55.9,98.8
+61.9,36.5,Maryland,0,2008,Democrat,61.9,98.4
+62,35.9,Maryland,0,2012,Democrat,62,97.9
+76.2,23.4,Massachusetts,0,1964,Democrat,76.2,99.6
+63,32.9,Massachusetts,3.7,1968,Democrat,63,99.6
+54.2,45.2,Massachusetts,0,1972,Democrat,54.2,99.4
+56.1,40.4,Massachusetts,0,1976,Democrat,56.1,96.5
+41.7,41.9,Massachusetts,15.2,1980,Republican,41.9,98.8
+48.4,51.2,Massachusetts,0,1984,Republican,51.2,99.6
+53.2,45.4,Massachusetts,0,1988,Democrat,53.2,98.6
+47.5,29,Massachusetts,22.7,1992,Democrat,47.5,99.2
+61.5,28.1,Massachusetts,8.9,1996,Democrat,61.5,98.5
+59.8,32.5,Massachusetts,6.4,2000,Democrat,59.8,98.7
+61.9,36.8,Massachusetts,0,2004,Democrat,61.9,98.7
+61.8,36,Massachusetts,0,2008,Democrat,61.8,97.8
+60.7,37.5,Massachusetts,0,2012,Democrat,60.7,98.2
+66.7,33.1,Michigan,0,1964,Democrat,66.7,99.8
+48.2,41.5,Michigan,10,1968,Democrat,48.2,99.7
+41.8,56.2,Michigan,0,1972,Republican,56.2,98
+46.4,51.8,Michigan,0,1976,Republican,51.8,98.2
+42.5,49,Michigan,7,1980,Republican,49,98.5
+40.2,59.2,Michigan,0,1984,Republican,59.2,99.4
+45.7,53.6,Michigan,0,1988,Republican,53.6,99.3
+43.8,36.4,Michigan,19.3,1992,Democrat,43.8,99.5
+51.7,38.5,Michigan,8.7,1996,Democrat,51.7,98.9
+51.3,46.1,Michigan,2,2000,Democrat,51.3,99.4
+51.2,47.8,Michigan,0,2004,Democrat,51.2,99
+57.4,41,Michigan,0,2008,Democrat,57.4,98.4
+54.2,44.7,Michigan,0,2012,Democrat,54.2,98.9
+63.8,36,Minnesota,0,1964,Democrat,63.8,99.8
+54,41.5,Minnesota,4.3,1968,Democrat,54,99.8
+46.1,51.6,Minnesota,0,1972,Republican,51.6,97.7
+54.9,42,Minnesota,0,1976,Democrat,54.9,96.9
+46.5,42.6,Minnesota,8.5,1980,Democrat,46.5,97.6
+49.7,49.5,Minnesota,0,1984,Democrat,49.7,99.2
+52.9,45.9,Minnesota,0,1988,Democrat,52.9,98.8
+43.5,31.9,Minnesota,24,1992,Democrat,43.5,99.4
+51.1,35,Minnesota,11.8,1996,Democrat,51.1,97.9
+47.9,45.5,Minnesota,5.2,2000,Democrat,47.9,98.6
+51.1,47.6,Minnesota,0,2004,Democrat,51.1,98.7
+54.1,43.8,Minnesota,0,2008,Democrat,54.1,97.9
+52.7,45,Minnesota,0,2012,Democrat,52.7,97.7
+12.9,87.1,Mississippi,0,1964,Republican,87.1,100
+23,13.5,Mississippi,63.5,1968,Third Party,63.5,100
+19.6,78.2,Mississippi,0,1972,Republican,78.2,97.8
+49.6,47.7,Mississippi,0,1976,Democrat,49.6,97.3
+48.1,49.4,Mississippi,1.3,1980,Republican,49.4,98.8
+37.4,61.9,Mississippi,0,1984,Republican,61.9,99.3
+39.1,59.9,Mississippi,0,1988,Republican,59.9,99
+40.8,49.7,Mississippi,8.7,1992,Republican,49.7,99.2
+44.1,49.2,Mississippi,5.8,1996,Republican,49.2,99.1
+40.7,57.6,Mississippi,0.8,2000,Republican,57.6,99.1
+39.8,59.5,Mississippi,0,2004,Republican,59.5,99.3
+43,56.2,Mississippi,0,2008,Republican,56.2,99.2
+43.8,55.3,Mississippi,0,2012,Republican,55.3,99.1
+64,36,Missouri,0,1964,Democrat,64,100
+43.7,44.9,Missouri,11.4,1968,Republican,44.9,100
+37.6,62.2,Missouri,0,1972,Republican,62.2,99.8
+51.1,47.5,Missouri,0,1976,Democrat,51.1,98.6
+44.3,51.2,Missouri,3.7,1980,Republican,51.2,99.2
+40,60,Missouri,0,1984,Republican,60,100
+47.8,51.8,Missouri,0,1988,Republican,51.8,99.6
+44.1,33.9,Missouri,21.7,1992,Democrat,44.1,99.7
+47.5,41.2,Missouri,10.1,1996,Democrat,47.5,98.8
+47.1,50.4,Missouri,1.6,2000,Republican,50.4,99.1
+46.1,53.3,Missouri,0,2004,Republican,53.3,99.4
+49.3,49.4,Missouri,0,2008,Republican,49.4,98.7
+44.4,53.8,Missouri,0,2012,Republican,53.8,98.2
+58.9,40.6,Montana,0,1964,Democrat,58.9,99.5
+41.6,50.6,Montana,7.3,1968,Republican,50.6,99.5
+37.8,57.9,Montana,0,1972,Republican,57.9,95.7
+45.4,52.8,Montana,0,1976,Republican,52.8,98.2
+32.4,56.8,Montana,8,1980,Republican,56.8,97.2
+38.2,60.5,Montana,0,1984,Republican,60.5,98.7
+46.2,52.1,Montana,0,1988,Republican,52.1,98.3
+37.6,35.1,Montana,26.1,1992,Democrat,37.6,98.8
+41.3,44.1,Montana,13.6,1996,Republican,44.1,99
+33.4,58.4,Montana,5.9,2000,Republican,58.4,97.7
+38.6,59.1,Montana,0,2004,Republican,59.1,97.7
+47.3,49.5,Montana,0,2008,Republican,49.5,96.8
+41.7,55.4,Montana,0,2012,Republican,55.4,97.1
+52.6,47.4,Nebraska,0,1964,Democrat,52.6,100
+31.8,59.8,Nebraska,8.4,1968,Republican,59.8,100
+29.5,70.5,Nebraska,0,1972,Republican,70.5,100
+38.5,59.2,Nebraska,0,1976,Republican,59.2,97.7
+26,65.5,Nebraska,7,1980,Republican,65.5,98.5
+28.8,70.6,Nebraska,0,1984,Republican,70.6,99.4
+39.2,60.2,Nebraska,0,1988,Republican,60.2,99.4
+29.4,46.6,Nebraska,23.6,1992,Republican,46.6,99.6
+35,53.7,Nebraska,10.5,1996,Republican,53.7,99.2
+33.3,62.2,Nebraska,3.5,2000,Republican,62.2,99
+32.7,65.9,Nebraska,0,2004,Republican,65.9,98.6
+41.6,56.5,Nebraska,0,2008,Republican,56.5,98.1
+38,59.8,Nebraska,0,2012,Republican,59.8,97.8
+58.6,41.4,Nevada,0,1964,Democrat,58.6,100
+39.3,47.5,Nevada,13.2,1968,Republican,47.5,100
+36.3,63.7,Nevada,0,1972,Republican,63.7,100
+45.8,50.2,Nevada,0,1976,Republican,50.2,96
+26.9,62.5,Nevada,7.1,1980,Republican,62.5,96.5
+32,65.8,Nevada,0,1984,Republican,65.8,97.8
+37.9,58.9,Nevada,0,1988,Republican,58.9,96.8
+37.4,34.7,Nevada,26.2,1992,Democrat,37.4,98.3
+43.9,42.9,Nevada,9.5,1996,Democrat,43.9,96.3
+46,49.5,Nevada,2.5,2000,Republican,49.5,98
+47.9,50.5,Nevada,0,2004,Republican,50.5,98.4
+55.1,42.7,Nevada,0,2008,Democrat,55.1,97.8
+52.4,45.7,Nevada,0,2012,Democrat,52.4,98.1
+63.9,36.1,New Hampshire,0,1964,Democrat,63.9,100
+43.9,52.1,New Hampshire,3.8,1968,Republican,52.1,99.8
+34.9,64,New Hampshire,0,1972,Republican,64,98.9
+43.5,54.7,New Hampshire,0,1976,Republican,54.7,98.2
+28.4,57.7,New Hampshire,12.9,1980,Republican,57.7,99
+30.9,68.6,New Hampshire,0,1984,Republican,68.6,99.5
+36.3,62.4,New Hampshire,0,1988,Republican,62.4,98.7
+38.9,37.6,New Hampshire,22.6,1992,Democrat,38.9,99.1
+49.3,39.4,New Hampshire,9.7,1996,Democrat,49.3,98.4
+46.8,48.1,New Hampshire,3.9,2000,Republican,48.1,98.8
+50.2,48.9,New Hampshire,0,2004,Democrat,50.2,99.1
+54.4,44.7,New Hampshire,0,2008,Democrat,54.4,99.1
+52,46.5,New Hampshire,0,2012,Democrat,52,98.5
+65.6,33.9,New Jersey,0,1964,Democrat,65.6,99.5
+44,46.1,New Jersey,9.1,1968,Republican,46.1,99.2
+36.8,61.6,New Jersey,0,1972,Republican,61.6,98.4
+47.9,50.1,New Jersey,0,1976,Republican,50.1,98
+38.6,52,New Jersey,7.9,1980,Republican,52,98.5
+39.2,60.1,New Jersey,0,1984,Republican,60.1,99.3
+42.6,56.2,New Jersey,0,1988,Republican,56.2,98.8
+43,40.6,New Jersey,15.6,1992,Democrat,43,99.2
+53.7,35.9,New Jersey,8.5,1996,Democrat,53.7,98.1
+56.1,40.3,New Jersey,3,2000,Democrat,56.1,99.4
+52.9,46.2,New Jersey,0,2004,Democrat,52.9,99.1
+57.3,41.7,New Jersey,0,2008,Democrat,57.3,99
+58.3,40.6,New Jersey,0,2012,Democrat,58.3,98.9
+59,40.4,New Mexico,0,1964,Democrat,59,99.4
+39.7,51.8,New Mexico,7.9,1968,Republican,51.8,99.4
+36.5,61,New Mexico,0,1972,Republican,61,97.5
+48.1,50.5,New Mexico,0,1976,Republican,50.5,98.6
+36.7,54.9,New Mexico,6.4,1980,Republican,54.9,98
+39.2,59.7,New Mexico,0,1984,Republican,59.7,98.9
+46.9,51.9,New Mexico,0,1988,Republican,51.9,98.8
+45.9,37.3,New Mexico,16.1,1992,Democrat,45.9,99.3
+49.2,41.9,New Mexico,5.8,1996,Democrat,49.2,96.9
+47.9,47.8,New Mexico,3.6,2000,Democrat,47.9,99.3
+49,49.8,New Mexico,0,2004,Republican,49.8,98.8
+56.9,41.8,New Mexico,0,2008,Democrat,56.9,98.7
+53,42.8,New Mexico,0,2012,Democrat,53,95.8
+68.6,31.3,New York,0,1964,Democrat,68.6,99.9
+49.7,44.3,New York,5.3,1968,Democrat,49.7,99.3
+41.2,58.5,New York,0,1972,Republican,58.5,99.7
+51.9,47.5,New York,0,1976,Democrat,51.9,99.4
+44,46.7,New York,7.5,1980,Republican,46.7,98.2
+45.8,53.8,New York,0,1984,Republican,53.8,99.6
+51.6,47.5,New York,0,1988,Democrat,51.6,99.1
+49.7,33.9,New York,15.7,1992,Democrat,49.7,99.3
+59.5,30.6,New York,8,1996,Democrat,59.5,98.1
+60.2,35.2,New York,3.6,2000,Democrat,60.2,99
+58.4,40.1,New York,0,2004,Democrat,58.4,98.5
+62.8,36.1,New York,0,2008,Democrat,62.8,98.9
+63.4,35.2,New York,0,2012,Democrat,63.4,98.6
+56.2,43.8,North Carolina,0,1964,Democrat,56.2,100
+29.2,39.5,North Carolina,31.3,1968,Republican,39.5,100
+28.9,69.5,North Carolina,0,1972,Republican,69.5,98.4
+55.2,44.2,North Carolina,0,1976,Democrat,55.2,99.4
+47.2,49.3,North Carolina,2.8,1980,Republican,49.3,99.3
+37.9,61.9,North Carolina,0,1984,Republican,61.9,99.8
+41.7,58,North Carolina,0,1988,Republican,58,99.7
+42.7,43.4,North Carolina,13.7,1992,Republican,43.4,99.8
+44,48.7,North Carolina,6.7,1996,Republican,48.7,99.4
+43.2,56,North Carolina,0,2000,Republican,56,99.2
+43.6,56,North Carolina,0,2004,Republican,56,99.6
+49.7,49.4,North Carolina,0,2008,Democrat,49.7,99.1
+48.4,50.4,North Carolina,0,2012,Republican,50.4,98.8
+58,41.9,North Dakota,0,1964,Democrat,58,99.9
+38.2,55.9,North Dakota,5.7,1968,Republican,55.9,99.8
+35.8,62.1,North Dakota,0,1972,Republican,62.1,97.9
+45.8,51.6,North Dakota,0,1976,Republican,51.6,97.4
+26.3,64.2,North Dakota,7.8,1980,Republican,64.2,98.3
+33.8,64.8,North Dakota,0,1984,Republican,64.8,98.6
+43,56,North Dakota,0,1988,Republican,56,99
+32.2,44.2,North Dakota,23.1,1992,Republican,44.2,99.5
+40.1,46.9,North Dakota,12.2,1996,Republican,46.9,99.2
+33.1,60.7,North Dakota,3.3,2000,Republican,60.7,97.1
+35.5,62.9,North Dakota,0,2004,Republican,62.9,98.4
+44.6,53.3,North Dakota,0,2008,Republican,53.3,97.9
+38.7,58.3,North Dakota,0,2012,Republican,58.3,97
+62.9,37.1,Ohio,0,1964,Democrat,62.9,100
+42.9,45.2,Ohio,11.8,1968,Republican,45.2,99.9
+38.1,59.6,Ohio,0,1972,Republican,59.6,97.7
+48.9,48.7,Ohio,0,1976,Democrat,48.9,97.6
+40.9,51.5,Ohio,5.9,1980,Republican,51.5,98.3
+40.1,58.9,Ohio,0,1984,Republican,58.9,99
+44.1,55,Ohio,0,1988,Republican,55,99.1
+40.2,38.3,Ohio,21,1992,Democrat,40.2,99.5
+47.4,41,Ohio,10.7,1996,Democrat,47.4,99.1
+46.4,50,Ohio,2.5,2000,Republican,50,98.9
+48.7,50.8,Ohio,0,2004,Republican,50.8,99.5
+51.5,46.9,Ohio,0,2008,Democrat,51.5,98.4
+50.7,47.7,Ohio,0,2012,Democrat,50.7,98.4
+55.7,44.3,Oklahoma,0,1964,Democrat,55.7,100
+32,47.7,Oklahoma,20.3,1968,Republican,47.7,100
+24,73.7,Oklahoma,0,1972,Republican,73.7,97.7
+48.7,50,Oklahoma,0,1976,Republican,50,98.7
+35,60.5,Oklahoma,3.3,1980,Republican,60.5,98.8
+30.7,68.6,Oklahoma,0,1984,Republican,68.6,99.3
+41.3,57.9,Oklahoma,0,1988,Republican,57.9,99.2
+34,42.6,Oklahoma,23,1992,Republican,42.6,99.6
+40.4,48.3,Oklahoma,10.8,1996,Republican,48.3,99.5
+38.4,60.3,Oklahoma,0,2000,Republican,60.3,98.7
+34.4,65.6,Oklahoma,0,2004,Republican,65.6,100
+34.4,65.6,Oklahoma,0,2008,Republican,65.6,100
+33.2,66.8,Oklahoma,0,2012,Republican,66.8,100
+63.7,36,Oregon,0,1964,Democrat,63.7,99.7
+43.8,49.8,Oregon,6.1,1968,Republican,49.8,99.7
+42.3,52.4,Oregon,0,1972,Republican,52.4,94.7
+47.6,47.8,Oregon,0,1976,Republican,47.8,95.4
+38.7,48.3,Oregon,9.5,1980,Republican,48.3,96.5
+43.7,55.9,Oregon,0,1984,Republican,55.9,99.6
+51.3,46.6,Oregon,0,1988,Democrat,51.3,97.9
+42.5,32.5,Oregon,24.2,1992,Democrat,42.5,99.2
+47.2,39.1,Oregon,8.8,1996,Democrat,47.2,95.1
+47,46.5,Oregon,5,2000,Democrat,47,98.5
+51.3,47.2,Oregon,0,2004,Democrat,51.3,98.5
+56.7,40.4,Oregon,0,2008,Democrat,56.7,97.1
+54.2,42.1,Oregon,0,2012,Democrat,54.2,96.3
+64.9,34.7,Pennsylvania,0,1964,Democrat,64.9,99.6
+47.6,44,Pennsylvania,8,1968,Democrat,47.6,99.6
+39.1,59.1,Pennsylvania,0,1972,Republican,59.1,98.2
+50.4,47.7,Pennsylvania,0,1976,Democrat,50.4,98.1
+42.5,49.6,Pennsylvania,6.4,1980,Republican,49.6,98.5
+46,53.3,Pennsylvania,0,1984,Republican,53.3,99.3
+48.4,50.7,Pennsylvania,0,1988,Republican,50.7,99.1
+45.1,36.1,Pennsylvania,18.2,1992,Democrat,45.1,99.4
+49.2,40,Pennsylvania,9.6,1996,Democrat,49.2,98.8
+50.6,46.4,Pennsylvania,2.1,2000,Democrat,50.6,99.1
+50.9,48.4,Pennsylvania,0,2004,Democrat,50.9,99.3
+54.3,44,Pennsylvania,0,2008,Democrat,54.3,98.3
+52.1,46.7,Pennsylvania,0,2012,Democrat,52.1,98.8
+80.9,19.1,Rhode Island,0,1964,Democrat,80.9,100
+64,31.8,Rhode Island,4.1,1968,Democrat,64,99.9
+46.8,53,Rhode Island,0,1972,Republican,53,99.8
+55.4,44.1,Rhode Island,0,1976,Democrat,55.4,99.5
+47.7,37.2,Rhode Island,14.4,1980,Democrat,47.7,99.3
+48,51.7,Rhode Island,0,1984,Republican,51.7,99.7
+55.6,43.9,Rhode Island,0,1988,Democrat,55.6,99.5
+47,29,Rhode Island,23.2,1992,Democrat,47,99.2
+59.7,26.8,Rhode Island,11.2,1996,Democrat,59.7,97.7
+61,31.9,Rhode Island,6.1,2000,Democrat,61,99
+59.4,38.7,Rhode Island,0,2004,Democrat,59.4,98.1
+63.1,35.2,Rhode Island,0,2008,Democrat,63.1,98.3
+62.7,35.2,Rhode Island,0,2012,Democrat,62.7,97.9
+41.1,58.9,South Carolina,0,1964,Republican,58.9,100
+29.6,38.1,South Carolina,32.3,1968,Republican,38.1,100
+27.7,70.8,South Carolina,0,1972,Republican,70.8,98.5
+56.2,43.1,South Carolina,0,1976,Democrat,56.2,99.3
+48.1,49.4,South Carolina,1.6,1980,Republican,49.4,99.1
+35.6,63.6,South Carolina,0,1984,Republican,63.6,99.2
+37.6,61.5,South Carolina,0,1988,Republican,61.5,99.1
+39.9,48,South Carolina,11.5,1992,Republican,48,99.4
+44,49.8,South Carolina,5.6,1996,Republican,49.8,99.4
+40.9,56.8,South Carolina,1.5,2000,Republican,56.8,99.2
+40.9,58,South Carolina,0,2004,Republican,58,98.9
+44.9,53.9,South Carolina,0,2008,Republican,53.9,98.8
+44.1,54.6,South Carolina,0,2012,Republican,54.6,98.7
+55.6,44.4,South Dakota,0,1964,Democrat,55.6,100
+42,53.3,South Dakota,4.8,1968,Republican,53.3,100.1
+45.5,54.2,South Dakota,0,1972,Republican,54.2,99.7
+48.9,50.4,South Dakota,0,1976,Republican,50.4,99.3
+31.7,60.5,South Dakota,6.5,1980,Republican,60.5,98.7
+36.5,63,South Dakota,0,1984,Republican,63,99.5
+46.5,52.8,South Dakota,0,1988,Republican,52.8,99.3
+37.1,40.7,South Dakota,21.8,1992,Republican,40.7,99.6
+43,46.5,South Dakota,9.7,1996,Republican,46.5,99.2
+37.6,60.3,South Dakota,0,2000,Republican,60.3,97.9
+38.4,59.9,South Dakota,0,2004,Republican,59.9,98.3
+44.7,53.2,South Dakota,0,2008,Republican,53.2,97.9
+39.9,57.9,South Dakota,0,2012,Republican,57.9,97.8
+55.5,44.5,Tennessee,0,1964,Democrat,55.5,100
+28.1,37.8,Tennessee,34,1968,Republican,37.8,99.9
+29.7,67.7,Tennessee,0,1972,Republican,67.7,97.4
+55.9,42.9,Tennessee,0,1976,Democrat,55.9,98.8
+48.4,48.7,Tennessee,2.2,1980,Republican,48.7,99.3
+41.6,57.8,Tennessee,0,1984,Republican,57.8,99.4
+41.5,57.9,Tennessee,0,1988,Republican,57.9,99.4
+47.1,42.4,Tennessee,10.1,1992,Democrat,47.1,99.6
+48,45.6,Tennessee,5.6,1996,Democrat,48,99.2
+47.3,51.1,Tennessee,1,2000,Republican,51.1,99.4
+42.5,56.8,Tennessee,0,2004,Republican,56.8,99.3
+41.8,56.9,Tennessee,0,2008,Republican,56.9,98.7
+39.1,59.5,Tennessee,0,2012,Republican,59.5,98.6
+63.3,36.5,Texas,0,1964,Democrat,63.3,99.8
+41.1,39.9,Texas,19,1968,Democrat,41.1,100
+33.3,66.2,Texas,0,1972,Republican,66.2,99.5
+51.1,48,Texas,0,1976,Democrat,51.1,99.1
+41.4,55.3,Texas,2.5,1980,Republican,55.3,99.2
+36.1,63.6,Texas,0,1984,Republican,63.6,99.7
+43.3,56,Texas,0,1988,Republican,56,99.3
+37.1,40.6,Texas,22,1992,Republican,40.6,99.7
+43.8,48.8,Texas,6.7,1996,Republican,48.8,99.3
+38,59.3,Texas,2.2,2000,Republican,59.3,99.5
+38.2,61.1,Texas,0,2004,Republican,61.1,99.3
+43.7,55.5,Texas,0,2008,Republican,55.5,99.2
+41.4,57.2,Texas,0,2012,Republican,57.2,98.6
+54.7,45.3,Utah,0,1964,Democrat,54.7,100
+31.1,56.5,Utah,6.4,1968,Republican,56.5,94
+26.4,67.6,Utah,0,1972,Republican,67.6,94
+33.6,62.4,Utah,0,1976,Republican,62.4,96
+20.6,72.8,Utah,5,1980,Republican,72.8,98.4
+24.7,74.5,Utah,0,1984,Republican,74.5,99.2
+32,66.2,Utah,0,1988,Republican,66.2,98.2
+24.7,43.4,Utah,27.3,1992,Republican,43.4,95.4
+33.3,54.4,Utah,10,1996,Republican,54.4,97.7
+26.3,66.8,Utah,4.7,2000,Republican,66.8,97.8
+26,71.5,Utah,0,2004,Republican,71.5,97.5
+34.4,62.6,Utah,0,2008,Republican,62.6,97
+24.7,72.8,Utah,0,2012,Republican,72.8,97.5
+66.3,33.7,Vermont,0,1964,Democrat,66.3,100
+43.5,52.8,Vermont,3.2,1968,Republican,52.8,99.5
+36.5,62.7,Vermont,0,1972,Republican,62.7,99.2
+43.1,54.4,Vermont,0,1976,Republican,54.4,97.5
+38.4,44.4,Vermont,14.9,1980,Republican,44.4,97.7
+40.8,57.9,Vermont,0,1984,Republican,57.9,98.7
+47.6,51.1,Vermont,0,1988,Republican,51.1,98.7
+46.1,30.4,Vermont,22.8,1992,Democrat,46.1,99.3
+53.4,31.1,Vermont,12,1996,Democrat,53.4,96.5
+50.6,40.7,Vermont,6.9,2000,Democrat,50.6,98.2
+58.9,38.8,Vermont,0,2004,Democrat,58.9,97.7
+67.5,30.4,Vermont,0,2008,Democrat,67.5,97.9
+66.6,31,Vermont,0,2012,Democrat,66.6,97.6
+53.5,46.2,Virginia,0,1964,Democrat,53.5,99.7
+32.5,43.4,Virginia,23.6,1968,Republican,43.4,99.5
+30.1,67.8,Virginia,0,1972,Republican,67.8,97.9
+48,49.3,Virginia,0,1976,Republican,49.3,97.3
+40.3,53,Virginia,5.1,1980,Republican,53,98.4
+37.1,62.3,Virginia,0,1984,Republican,62.3,99.4
+39.2,59.7,Virginia,0,1988,Republican,59.7,98.9
+40.6,45,Virginia,13.6,1992,Republican,45,99.2
+45.1,47.1,Virginia,6.6,1996,Republican,47.1,98.8
+44.4,52.5,Virginia,2.2,2000,Republican,52.5,99.1
+45.5,53.7,Virginia,0,2004,Republican,53.7,99.2
+52.6,46.3,Virginia,0,2008,Democrat,52.6,98.9
+51.2,47.3,Virginia,0,2012,Democrat,51.2,98.5
+62,37.4,Washington,0,1964,Democrat,62,99.4
+47.2,45.1,Washington,7.4,1968,Democrat,47.2,99.7
+38.6,56.9,Washington,0,1972,Republican,56.9,95.5
+46.1,50,Washington,0,1976,Republican,50,96.1
+37.3,49.7,Washington,10.6,1980,Republican,49.7,97.6
+42.9,55.8,Washington,0,1984,Republican,55.8,98.7
+50,48.5,Washington,0,1988,Democrat,50,98.5
+43.4,32,Washington,23.7,1992,Democrat,43.4,99.1
+49.8,37.3,Washington,8.9,1996,Democrat,49.8,96
+50.2,44.6,Washington,4.1,2000,Democrat,50.2,98.9
+52.8,45.6,Washington,0,2004,Democrat,52.8,98.4
+57.7,40.5,Washington,0,2008,Democrat,57.7,98.2
+56.2,41.3,Washington,0,2012,Democrat,56.2,97.5
+67.9,32.1,West Virginia,0,1964,Democrat,67.9,100
+49.6,40.8,West Virginia,9.6,1968,Democrat,49.6,100
+36.4,63.6,West Virginia,0,1972,Republican,63.6,100
+58,41.9,West Virginia,0,1976,Democrat,58,99.9
+49.8,45.3,West Virginia,4.3,1980,Democrat,49.8,99.4
+44.6,55.1,West Virginia,0,1984,Republican,55.1,99.7
+52.2,47.5,West Virginia,0,1988,Democrat,52.2,99.7
+48.4,35.4,West Virginia,15.9,1992,Democrat,48.4,99.7
+51.5,36.8,West Virginia,11.3,1996,Democrat,51.5,99.6
+45.6,51.9,West Virginia,1.6,2000,Republican,51.9,99.1
+43.2,56.1,West Virginia,0,2004,Republican,56.1,99.3
+42.6,55.7,West Virginia,0,2008,Republican,55.7,98.3
+35.5,62.3,West Virginia,0,2012,Republican,62.3,97.8
+62.1,37.7,Wisconsin,0,1964,Democrat,62.1,99.8
+44.3,47.9,Wisconsin,7.6,1968,Republican,47.9,99.8
+43.7,53.4,Wisconsin,0,1972,Republican,53.4,97.1
+49.4,47.8,Wisconsin,0,1976,Democrat,49.4,97.2
+43.2,47.9,Wisconsin,7.1,1980,Republican,47.9,98.2
+45,54.2,Wisconsin,0,1984,Republican,54.2,99.2
+51.4,47.8,Wisconsin,0,1988,Democrat,51.4,99.2
+41.1,36.8,Wisconsin,21.5,1992,Democrat,41.1,99.4
+48.8,38.5,Wisconsin,10.4,1996,Democrat,48.8,97.7
+47.8,47.6,Wisconsin,3.6,2000,Democrat,47.8,99
+49.7,49.3,Wisconsin,0,2004,Democrat,49.7,99
+56.2,42.3,Wisconsin,0,2008,Democrat,56.2,98.5
+52.9,46,Wisconsin,0,2012,Democrat,52.9,98.9
+56.6,43.4,Wyoming,0,1964,Democrat,56.6,100
+35.5,55.8,Wyoming,8.7,1968,Republican,55.8,100
+30.5,69,Wyoming,0,1972,Republican,69,99.5
+39.8,59.3,Wyoming,0,1976,Republican,59.3,99.1
+28,62.6,Wyoming,6.8,1980,Republican,62.6,97.4
+28.2,70.5,Wyoming,0,1984,Republican,70.5,98.7
+38,60.5,Wyoming,0,1988,Republican,60.5,98.5
+34,39.6,Wyoming,25.6,1992,Republican,39.6,99.2
+36.8,49.8,Wyoming,12.3,1996,Republican,49.8,98.9
+27.7,67.8,Wyoming,2.1,2000,Republican,67.8,97.6
+29.1,68.9,Wyoming,0,2004,Republican,68.9,98
+32.4,64.4,Wyoming,0,2008,Republican,64.4,96.8
+27.8,68.6,Wyoming,0,2012,Republican,68.6,96.4
